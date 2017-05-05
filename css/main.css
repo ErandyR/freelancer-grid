@@ -1,3 +1,65 @@
 /*
  * Estilos de tu proyecto
  */
+ .navegador{
+   background: #31455a;
+   width: 100%;
+   height: 60px;
+ }
+
+ .parrafo1Nav {
+   font-size: 100%;
+   color: white;
+   font-family: arial;
+   font-weight: bold;
+   margin-top: 5%
+ }
+ .parrafoNav {
+     font-family: arial;
+     font-weight: bold;
+     margin-top: 15%;
+     text-align: center;
+
+ }
+
+ .navLink {
+   font-size: 70%;
+ }
+.link {
+  color: white;
+  text-decoration: none;
+}
+
+/* siguiente seccion(2) "inicio" */
+.seccionInicio {
+  background: #19c3a8;
+  display: inline-block;
+  height: auto;
+  width: 100%;
+}
+
+.imagenProfile {
+  margin-left: 30%;
+  margin-top: 16%;
+}
+
+.parrafoSectionInicio {
+  color: white;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 350%;
+  text-align: center;
+}
+.estrellaBlanca {
+  margin-left: 30%;
+  margin-top: 2%;
+  width: 40%;
+}
+.parrafoDescripcion {
+  color: white;
+  font-family: arial;
+  font-size: 120%;
+  text-align: center;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
